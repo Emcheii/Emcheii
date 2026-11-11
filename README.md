@@ -255,9 +255,13 @@ A task management application featuring CRUD operations and structured data hand
 
 
 
-## ✍️ Developer Quote
+<h2 align="center">✍️ Developer Quote</h2>
 
-> "Great software is built through clear thinking, consistent learning, and attention to detail."
+<p align="center">
+  <i>"The only way to do great work is to love what you do."</i>
+  <br>
+  — Steve Jobs
+</p>
 
 ---
 
